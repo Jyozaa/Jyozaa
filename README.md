@@ -4,36 +4,30 @@
   MEng Computer Science &middot; University of Leeds
 </p>
 
-
-<img align="right" src="./assets/climber.gif" width="42%" alt="Animated monochrome climber">
-
 <h3>About Me</h3>
 
 I'm an MEng Computer Science student at the University of Leeds, interested in cybersecurity, data-focused roles, machine learning, and AI.
 
 Currently exploring how AI and data can be applied to real-world problems, particularly in healthcare and medicine, while also building projects across software development and intelligent systems.
 
-- 🎓 MEng Computer Science @ University of Leeds
-- 🧠 Interested in cybersecurity, data, machine learning & AI
-- 🔬 Currently working with **AI and data research**
-- 🧬 Interested in applications of AI in healthcare and medicine
-- 🐍 Mainly working with **Python**
-- 🌱 Always experimenting with new technologies and ideas
+* 🎓 MEng Computer Science @ University of Leeds
+* 🧠 Interested in cybersecurity, data, machine learning & AI
+* 🔬 Currently working with **AI and data research**
+* 🧬 Interested in applications of AI in healthcare and medicine
+* 🐍 Mainly working with **Python**
+* 🌱 Always experimenting with new technologies and ideas
 
-<h2 align="center">Socials</h2>
+<br>
 
 <p align="center">
-  <a href="https://instagram.com/jyo_za"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&amp;logoColor=white" alt="Instagram"></a>
-  <a href="https://linkedin.com/in/joemugen-hoga-kirana-563a85214"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a>
+  <img
+    src="./assets/mountain.jpg"
+    width="100%"
+    alt="Black and white manga mountain landscape"
+  >
 </p>
 
-<table>
-  <img
-  align="left"
-  src="./assets/mountain.jpg"
-  width="43%"
-  alt="Black and white manga mountain landscape"
-/>
+<br>
 
 <h3 align="center">Tech Stack</h3>
 
@@ -93,5 +87,23 @@ Currently exploring how AI and data can be applied to real-world problems, parti
   <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=flat-square&amp;logo=blender&amp;logoColor=white" alt="Blender">
 </p>
 
-<br clear="all">
-</table>
+<br>
+
+<p align="center">
+  <img
+    src="./assets/climber.gif"
+    width="48%"
+    alt="Animated monochrome climber"
+  >
+</p>
+
+<h3 align="center">Socials</h3>
+
+<p align="center">
+  <a href="https://instagram.com/jyo_za">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&amp;logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://linkedin.com/in/joemugen-hoga-kirana-563a85214">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&amp;logoColor=white" alt="LinkedIn">
+  </a>
+</p>
