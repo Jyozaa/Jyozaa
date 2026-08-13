@@ -100,4 +100,3 @@ Currently exploring how AI and data can be applied to real-world problems, parti
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&amp;logoColor=white" alt="LinkedIn">
   </a>
 </p>
-```
