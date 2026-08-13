@@ -28,7 +28,7 @@ Currently exploring how AI and data can be applied to real-world problems, parti
 </p>
 
 <table>
-<img
+  <img
   align="left"
   src="./assets/mountain.jpg"
   width="43%"
@@ -50,9 +50,6 @@ Currently exploring how AI and data can be applied to real-world problems, parti
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&amp;logo=css3&amp;logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/latex-%23008080.svg?style=flat-square&amp;logo=latex&amp;logoColor=white" alt="LaTeX">
   <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=flat-square&amp;logo=markdown&amp;logoColor=white" alt="Markdown">
-
-  <br><br>
-
   <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&amp;logo=numpy&amp;logoColor=white" alt="NumPy">
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&amp;logo=pandas&amp;logoColor=white" alt="Pandas">
   <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&amp;logo=scipy&amp;logoColor=white" alt="SciPy">
@@ -63,9 +60,6 @@ Currently exploring how AI and data can be applied to real-world problems, parti
   <img src="https://img.shields.io/badge/opencv-%23white.svg?style=flat-square&amp;logo=opencv&amp;logoColor=white" alt="OpenCV">
   <img src="https://img.shields.io/badge/cuda-000000.svg?style=flat-square&amp;logo=nVIDIA&amp;logoColor=green" alt="NVIDIA CUDA">
   <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat-square&amp;logo=anaconda&amp;logoColor=white" alt="Anaconda">
-
-  <br><br>
-
   <img src="https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&amp;logo=django&amp;logoColor=white" alt="Django">
   <img src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&amp;logo=fastapi" alt="FastAPI">
   <img src="https://img.shields.io/badge/flask-%23000.svg?style=flat-square&amp;logo=flask&amp;logoColor=white" alt="Flask">
@@ -81,9 +75,6 @@ Currently exploring how AI and data can be applied to real-world problems, parti
   <img src="https://img.shields.io/badge/threejs-black?style=flat-square&amp;logo=three.js&amp;logoColor=white" alt="Three.js">
   <img src="https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=flat-square&amp;logo=opengl" alt="OpenGL">
   <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat-square&amp;logo=npm&amp;logoColor=white" alt="NPM">
-
-  <br><br>
-
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&amp;logo=mongodb&amp;logoColor=white" alt="MongoDB">
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&amp;logo=mysql&amp;logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL">
@@ -93,9 +84,6 @@ Currently exploring how AI and data can be applied to real-world problems, parti
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&amp;logo=amazon-aws&amp;logoColor=white" alt="AWS">
   <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&amp;logo=microsoftazure&amp;logoColor=white" alt="Azure">
   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&amp;logo=vercel&amp;logoColor=white" alt="Vercel">
-
-  <br><br>
-
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&amp;logo=git&amp;logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat-square&amp;logo=github&amp;logoColor=white" alt="GitHub">
   <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=flat-square&amp;logo=gitlab&amp;logoColor=white" alt="GitLab">
@@ -105,5 +93,5 @@ Currently exploring how AI and data can be applied to real-world problems, parti
   <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=flat-square&amp;logo=blender&amp;logoColor=white" alt="Blender">
 </p>
 
-<br clear="left">
+<br clear="all">
 </table>
