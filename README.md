@@ -1,10 +1,9 @@
-<h1 align="center">Joe</h1>
+<h1 align="center">Joemugen Hoga Kirana</h1>
 
 <p align="center">
   MEng Computer Science &middot; University of Leeds
 </p>
 
----
 
 <img align="right" src="./assets/climber.gif" width="42%" alt="Animated monochrome climber">
 
