@@ -7,18 +7,14 @@
 
 <img align="right" src="./assets/climber.gif" width="42%" alt="Animated monochrome climber">
 
-<h3>About Me</h3>
+<h3>Hi there! 👋</h3>
 
-I'm an MEng Computer Science student at the University of Leeds, interested in cybersecurity, data-focused roles, machine learning, and AI.
+I'm Joe, an MEng Computer Science student at the University of Leeds, interested in cybersecurity, data roles, machine learning, and AI.
 
 Currently exploring how AI and data can be applied to real-world problems, particularly in healthcare and medicine, while also building projects across software development and intelligent systems.
 
-- 🎓 MEng Computer Science @ University of Leeds
-- 🧠 Interested in cybersecurity, data, machine learning & AI
 - 🔬 Currently working with **AI and data research**
-- 🧬 Interested in applications of AI in healthcare and medicine
 - 🐍 Mainly working with **Python**
-- 🌱 Always experimenting with new technologies and ideas
 
 <br clear="right">
 
