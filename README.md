@@ -7,7 +7,7 @@
 
 <img align="right" src="./assets/climber.gif" width="42%" alt="Animated monochrome climber">
 
-<h2>About Me</h2>
+<h3>About Me</h3>
 
 I'm an MEng Computer Science student at the University of Leeds, interested in cybersecurity, data-focused roles, machine learning, and AI.
 
