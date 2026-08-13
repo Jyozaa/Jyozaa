@@ -80,8 +80,8 @@ Currently exploring how AI and data can be applied to real-world problems, parti
 
 <p align="center">
   <img
-    src="./assets/mountain.jpg"
-    width="65%"
+    src="./assets/horizontal.png"
+    width="100%"
     alt="Black and white manga mountain landscape"
   >
 </p>
