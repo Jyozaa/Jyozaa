@@ -5,7 +5,7 @@
 </p>
 
 
-<img align="right" src="./assets/climber.gif" width="42%" alt="Animated monochrome climber">
+<img align="right" src="./assets/the-climber-the-climber-manga.gif" width="42%" alt="Animated manga climber">
 
 <h3>Hi there! 👋</h3>
 
@@ -23,20 +23,12 @@ Currently exploring how AI and data can be applied to real-world problems, parti
     <img
       src="https://raw.githubusercontent.com/Jyozaa/gif-terminal/main/output.gif"
       width="100%"
-      alt="Animated terminal showing Joe's GitHub statistics and tech stack"
+      alt="Animated Liquid Glass terminal showing Joe's GitHub statistics and technologies"
     >
   </a>
 </p>
 
 <br>
-
-<p align="center">
-  <img
-    src="./assets/horizontal.png"
-    width="100%"
-    alt="Black and white manga mountain landscape"
-  >
-</p>
 
 <img align="right" src="./assets/boxer.gif" width="20%" alt="Animated boxer">
 
