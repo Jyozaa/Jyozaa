@@ -32,9 +32,9 @@ Currently exploring how AI and data can be applied to real-world problems, parti
 
 <img align="right" src="./assets/boxer.gif" width="20%" alt="Animated boxer">
 
-<h3>Find me around the web 🌎</h3>
+<h3>Other places I exist on the internet</h3>
 
-- Find me on [LinkedIn](https://linkedin.com/in/joemugen-hoga-kirana-563a85214) 💼
-- Life, one frame at a time on [Instagram](https://instagram.com/jyo_za) 📸
+- Corporate lore → [LinkedIn](https://linkedin.com/in/joemugen-hoga-kirana-563a85214) 💼
+- Proof I occasionally leave my computer → [Instagram](https://instagram.com/jyo_za) 📸
 
 <br clear="right">
