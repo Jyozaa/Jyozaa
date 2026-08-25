@@ -30,7 +30,7 @@ Currently exploring how AI and data can be applied to real-world problems, parti
 
 <br>
 
-<img align="left" src="./assets/boxer.gif" width="25%" alt="Animated boxer">
+<img align="left" src="./assets/boxer.gif" width="25%" hspace="16" alt="Animated boxer">
 
 <h3>Other places I exist on the internet</h3>
 
