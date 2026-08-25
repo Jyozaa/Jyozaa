@@ -13,7 +13,7 @@ I'm Joe, an MEng Computer Science student at the University of Leeds, interested
 
 Currently exploring how AI and data can be applied to real-world problems, particularly in healthcare and medicine, while also building projects across software development and intelligent systems.
 
-- Currently working with **AI and data research**
+- Working with **AI and data research**
 - Mainly working with **Python**
 
 <br clear="right">
@@ -30,7 +30,7 @@ Currently exploring how AI and data can be applied to real-world problems, parti
 
 <br>
 
-<img align="left" src="./assets/boxer.gif" width="25%" hspace="16" alt="Animated boxer">
+<img align="left" src="./assets/boxer.gif" width="25%" hspace="20" alt="Animated boxer">
 
 <h3>Other places I exist on the internet</h3>
 
