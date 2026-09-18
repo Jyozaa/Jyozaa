@@ -15,6 +15,7 @@ Currently exploring how AI and data can be applied to real-world problems, parti
 
 - Working with **AI and data research**
 - Mainly working with **Python**
+- Check out my <a href="https://jo.is-a.dev/">portfolio</a>
 
 <br clear="right">
 
